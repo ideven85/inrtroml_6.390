@@ -29,7 +29,7 @@ book:
     - reinforcement_learning.qmd
     # - clustering.qmd
   appendices:
-    - matrix_derivative.qmd
+    - matrix_calculus.qmd
     - neural_network_appendix.qmd
     - nutshell.qmd
 
@@ -120,8 +120,8 @@ format:
   #     \printindex
 # # https://christophertkenny.com/posts/2023-07-01-creating-quarto-journal-articles/
 # latex-auto-install: true
-comments:
-  hypothesis: true
+## comments:
+##   hypothesis: true
 resources:
   - demos/
 filters:
